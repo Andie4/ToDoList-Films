@@ -1,0 +1,8 @@
+# dependencies
+node_modules
+
+# Expo
+package.json
+
+#env
+.env
